@@ -37,3 +37,6 @@ This game is implemented using Python and the Pygame library. Below is a brief o
 - The game logic, including checking for winning combinations and handling restarts, is implemented in an organized manner.
 
 Have fun exploring the code and playing Connect Four!
+
+## The game
+![](./resources/game.gif)
