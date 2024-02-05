@@ -23,7 +23,7 @@ This game is implemented using Python and the Pygame library. Below is a brief o
 2. Install the Pygame library by running the following command in your terminal:
 3. Run the Python script to start the game:
 
-![](./resources/game.mp4)
+![](./resources/game.gif)
 ## Code Description
 
 - The code utilizes Pygame for creating the game window, handling user input, and displaying graphics.
