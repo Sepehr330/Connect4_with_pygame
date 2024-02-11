@@ -39,4 +39,5 @@ This game is implemented using Python and the Pygame library. Below is a brief o
 Have fun exploring the code and playing Connect Four!
 
 ## The game
-![](./Resources/game.gif)
+
+![game](Resources/game.gif)
